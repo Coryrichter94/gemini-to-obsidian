@@ -20,7 +20,11 @@ Convert your Google Gemini chat history from Google Takeout into beautifully for
 
 ## Sample Output
 
-Your chats become organized Obsidian notes like this:
+Your chats become organized Obsidian notes with clean formatting and metadata:
+
+![Screenshot of converted Gemini chat in Obsidian](Screenshot.png)
+
+The converter creates properly formatted markdown files with:
 
 ```markdown
 ---
