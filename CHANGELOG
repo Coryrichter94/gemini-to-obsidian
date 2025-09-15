@@ -1,0 +1,24 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [1.0.0] - 2025-09-15
+
+### Added
+- Initial release
+- Google Takeout to Obsidian conversion
+- YAML frontmatter generation
+- Automatic tagging system
+- Attachment processing
+- Date-based organization
+- Bulk processing with progress bars
+- Error handling and logging
+- Configuration options
+
+### Features
+- Clean HTML to Markdown conversion
+- Smart title extraction
+- Keyword-based tag generation
+- File attachment support
+- Dry run mode for testing
+- Debug mode for troubleshooting
