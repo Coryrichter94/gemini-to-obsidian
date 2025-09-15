@@ -190,12 +190,3 @@ See [CHANGELOG.md](CHANGELOG.md) for version history and updates.
 *Made with ❤️ for the Obsidian community*
 
 ---
-
-## requirements.txt
-
-```
-tqdm>=4.64.0
-ijson>=3.1.4
-html2text>=2020.1.16
-```
-
